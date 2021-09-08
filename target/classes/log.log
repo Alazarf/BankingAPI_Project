@@ -1,0 +1,1119 @@
+2021-09-07 18:01:23 INFO  App:25 - Javalin Created
+2021-09-07 18:02:25 INFO  App:25 - Javalin Created
+2021-09-07 18:02:25 INFO  App:33 - Javalin Started
+2021-09-07 18:03:28 INFO  App:25 - Javalin Created
+2021-09-07 18:03:38 INFO  App:25 - Javalin Created
+2021-09-07 18:03:39 INFO  App:33 - Javalin Started
+2021-09-07 18:18:46 INFO  App:25 - Javalin Created
+2021-09-07 18:18:47 INFO  App:33 - Javalin Started
+2021-09-07 18:19:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:19:11 ERROR ClientRepoDBImpl:108 - Database Connection ErrorsNo such column: 'c_id'. 'c_id' must be in [clients.id, password, clients.email, name, id, clients.name, clients.password, email]
+2021-09-07 18:19:11 INFO  ClientRepoDBImpl:111 - Problems with Setting Info
+2021-09-07 18:22:06 INFO  App:25 - Javalin Created
+2021-09-07 18:22:07 INFO  App:33 - Javalin Started
+2021-09-07 18:22:13 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:22:13 ERROR ClientRepoDBImpl:108 - Database Connection ErrorsNo such column: 'c_id'. 'c_id' must be in [clients.id, password, clients.email, name, id, clients.name, clients.password, email]
+2021-09-07 18:22:13 INFO  ClientRepoDBImpl:111 - Problems with Setting Info
+2021-09-07 18:23:25 INFO  App:25 - Javalin Created
+2021-09-07 18:23:26 INFO  App:33 - Javalin Started
+2021-09-07 18:23:32 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:23:32 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:23:32 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:23:32 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:23:32 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 18:24:05 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 18:24:05 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 18:24:05 ERROR AccountRepoDBImpl:170 - Database Connection Information Error(conn=1773) Unknown column 'c_id' in 'where clause'
+2021-09-07 18:24:05 INFO  AccountRepoDBImpl:173 - Problem with List Info
+2021-09-07 18:27:26 INFO  App:25 - Javalin Created
+2021-09-07 18:27:27 INFO  App:33 - Javalin Started
+2021-09-07 18:27:38 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 18:27:38 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 18:27:38 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:27:38 ERROR AccountRepoDBImpl:170 - Database Connection Information ErrorNo such column: 'checking_account'. 'checking_account' must be in [amount, clientid, accounts.savingsaccount, accounts.id, accounts.amount, checkingaccount, balance, accounts.checkingaccount, accounts.balance, id, savingsaccount, accounts.clientid]
+2021-09-07 18:27:38 INFO  AccountRepoDBImpl:173 - Problem with List Info
+2021-09-07 18:30:03 INFO  App:25 - Javalin Created
+2021-09-07 18:30:04 INFO  App:33 - Javalin Started
+2021-09-07 18:30:17 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 18:30:17 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 18:30:17 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:30:17 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:30:17 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 18:31:37 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 18:31:37 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 18:31:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:31:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:31:37 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 18:32:38 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=1778) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 18:32:38 ERROR AccountRepoDBImpl:397 - Database Connection Problems(conn=1778) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:184 - Setting New Information
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:195 - Sending Created List
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:280 - Setting New Information
+2021-09-07 18:32:38 ERROR AccountRepoDBImpl:296 - Database Issues(conn=1778) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:299 - Problem with Setting Info
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:138 - Returning List of Accounts
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:215 - Setting New Information
+2021-09-07 18:32:38 ERROR AccountRepoDBImpl:233 - Database Connection Problems(conn=1778) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:236 - Problem with Setting Info
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:76 - Building New Account
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:250 - Setting New Information
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:266 - Missing Info
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:115 - Problem with Setting Information
+2021-09-07 18:32:38 INFO  AccountRepoDBImpl:349 - Setting New Information
+2021-09-07 18:32:39 INFO  AccountRepoDBImpl:366 - Problem with Setting Info
+2021-09-07 18:32:39 INFO  AccountRepoDBImpl:314 - Setting New Information
+2021-09-07 18:32:39 ERROR AccountRepoDBImpl:330 - Database Connective Issues(conn=1778) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:32:39 INFO  AccountRepoDBImpl:333 - Problem with Setting Info
+2021-09-07 18:32:39 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 18:32:39 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:32:39 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:32:39 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 18:33:37 ERROR AccountRepoDBImpl:397 - Database Connection Problems(conn=1779) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:184 - Setting New Information
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:195 - Sending Created List
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:280 - Setting New Information
+2021-09-07 18:33:37 ERROR AccountRepoDBImpl:296 - Database Issues(conn=1779) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:299 - Problem with Setting Info
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:138 - Returning List of Accounts
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:215 - Setting New Information
+2021-09-07 18:33:37 ERROR AccountRepoDBImpl:233 - Database Connection Problems(conn=1779) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:236 - Problem with Setting Info
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:76 - Building New Account
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:250 - Setting New Information
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:266 - Missing Info
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:115 - Problem with Setting Information
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:349 - Setting New Information
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:366 - Problem with Setting Info
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:314 - Setting New Information
+2021-09-07 18:33:37 ERROR AccountRepoDBImpl:330 - Database Connective Issues(conn=1779) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:333 - Problem with Setting Info
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:33:37 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 18:35:36 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 18:35:36 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=1780) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:35:36 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 18:35:36 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 18:35:36 ERROR AccountRepoDBImpl:397 - Database Connection Problems(conn=1780) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:35:36 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 18:35:36 INFO  AccountRepoDBImpl:184 - Setting New Information
+2021-09-07 18:35:36 INFO  AccountRepoDBImpl:195 - Sending Created List
+2021-09-07 18:35:36 INFO  AccountRepoDBImpl:280 - Setting New Information
+2021-09-07 18:35:36 ERROR AccountRepoDBImpl:296 - Database Issues(conn=1780) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:35:36 INFO  AccountRepoDBImpl:299 - Problem with Setting Info
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:138 - Returning List of Accounts
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:215 - Setting New Information
+2021-09-07 18:35:37 ERROR AccountRepoDBImpl:233 - Database Connection Problems(conn=1780) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:236 - Problem with Setting Info
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:76 - Building New Account
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:250 - Setting New Information
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:266 - Missing Info
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:115 - Problem with Setting Information
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:349 - Setting New Information
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:366 - Problem with Setting Info
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:314 - Setting New Information
+2021-09-07 18:35:37 ERROR AccountRepoDBImpl:330 - Database Connective Issues(conn=1780) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:333 - Problem with Setting Info
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:35:37 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:170 - Creating New Client
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-07 18:37:14 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-07 18:38:19 INFO  App:25 - Javalin Created
+2021-09-07 18:38:19 INFO  App:33 - Javalin Started
+2021-09-07 18:38:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:38:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:38:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:38:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:38:34 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-07 18:42:00 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-07 18:47:29 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-07 18:47:58 INFO  App:25 - Javalin Created
+2021-09-07 18:47:59 INFO  App:33 - Javalin Started
+2021-09-07 18:48:57 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 18:48:57 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 18:48:57 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:48:57 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:48:57 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 18:51:21 INFO  AccountController:192 - Putting Id's into integer
+2021-09-07 18:51:21 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 18:51:22 INFO  AccountRepoDBImpl:107 - Building New Account
+2021-09-07 18:51:22 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:51:22 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 18:51:22 ERROR AccountRepoDBImpl:397 - Database Connection Problems(conn=1787) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:51:22 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 18:51:56 INFO  App:25 - Javalin Created
+2021-09-07 18:51:56 INFO  App:33 - Javalin Started
+2021-09-07 18:52:05 INFO  AccountController:192 - Putting Id's into integer
+2021-09-07 18:52:05 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 18:52:05 INFO  AccountRepoDBImpl:107 - Building New Account
+2021-09-07 18:52:05 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:52:05 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 18:52:05 ERROR AccountRepoDBImpl:397 - Database Connection Problems(conn=1789) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:52:05 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 18:54:02 INFO  App:25 - Javalin Created
+2021-09-07 18:54:03 INFO  App:33 - Javalin Started
+2021-09-07 18:54:42 INFO  AccountController:192 - Putting Id's into integer
+2021-09-07 18:54:42 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 18:54:42 INFO  AccountRepoDBImpl:107 - Building New Account
+2021-09-07 18:54:42 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:54:42 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 18:54:43 ERROR AccountRepoDBImpl:397 - Database Connection Problems(conn=1791) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 18:54:43 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 18:58:53 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 18:58:53 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=1796) Cannot add or update a child row: a foreign key constraint fails (`Banking`.`accounts`, CONSTRAINT `fk_client` FOREIGN KEY (`clientId`) REFERENCES `clients` (`id`) ON DELETE CASCADE)
+2021-09-07 18:58:53 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 18:58:53 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 18:58:53 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 18:58:53 INFO  AccountRepoDBImpl:184 - Setting New Information
+2021-09-07 18:58:53 INFO  AccountRepoDBImpl:195 - Sending Created List
+2021-09-07 18:58:53 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:138 - Returning List of Accounts
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:215 - Setting New Information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:236 - Problem with Setting Info
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:250 - Setting New Information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:266 - Missing Info
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:115 - Problem with Setting Information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:349 - Setting New Information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:366 - Problem with Setting Info
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:314 - Setting New Information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:333 - Problem with Setting Info
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 18:58:54 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 19:00:55 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=1797) Cannot add or update a child row: a foreign key constraint fails (`Banking`.`accounts`, CONSTRAINT `fk_client` FOREIGN KEY (`clientId`) REFERENCES `clients` (`id`) ON DELETE CASCADE)
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:184 - Setting New Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:195 - Sending Created List
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:138 - Returning List of Accounts
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:215 - Setting New Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:236 - Problem with Setting Info
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:250 - Setting New Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:266 - Missing Info
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:115 - Problem with Setting Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:349 - Setting New Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:366 - Problem with Setting Info
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:314 - Setting New Information
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:333 - Problem with Setting Info
+2021-09-07 19:00:55 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 19:00:56 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 19:02:33 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=1798) Cannot add or update a child row: a foreign key constraint fails (`Banking`.`accounts`, CONSTRAINT `fk_client` FOREIGN KEY (`clientId`) REFERENCES `clients` (`id`) ON DELETE CASCADE)
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:184 - Setting New Information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:195 - Sending Created List
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:138 - Returning List of Accounts
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:215 - Setting New Information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:236 - Problem with Setting Info
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:250 - Setting New Information
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:266 - Missing Info
+2021-09-07 19:02:33 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 19:02:34 INFO  AccountRepoDBImpl:115 - Problem with Setting Information
+2021-09-07 19:02:34 INFO  AccountRepoDBImpl:349 - Setting New Information
+2021-09-07 19:02:34 INFO  AccountRepoDBImpl:366 - Problem with Setting Info
+2021-09-07 19:02:34 INFO  AccountRepoDBImpl:314 - Setting New Information
+2021-09-07 19:02:34 INFO  AccountRepoDBImpl:333 - Problem with Setting Info
+2021-09-07 19:02:34 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 19:02:34 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 19:02:43 INFO  App:25 - Javalin Created
+2021-09-07 19:02:44 INFO  App:33 - Javalin Started
+2021-09-07 19:03:23 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 19:03:23 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 19:03:23 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 19:03:23 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 19:03:23 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 19:03:23 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 19:03:23 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 19:03:44 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 19:03:44 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 19:03:44 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 19:03:44 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 19:03:44 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 19:05:54 INFO  AccountController:192 - Putting Id's into integer
+2021-09-07 19:05:54 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 19:05:54 INFO  AccountRepoDBImpl:107 - Building New Account
+2021-09-07 19:05:54 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 19:05:54 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 19:05:54 ERROR AccountRepoDBImpl:397 - Database Connection Problems(conn=1799) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 19:05:54 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 19:06:44 INFO  App:25 - Javalin Created
+2021-09-07 19:06:45 INFO  App:33 - Javalin Started
+2021-09-07 19:07:00 INFO  AccountController:192 - Putting Id's into integer
+2021-09-07 19:07:00 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 19:07:00 INFO  AccountRepoDBImpl:107 - Building New Account
+2021-09-07 19:07:00 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 19:07:00 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 19:07:00 ERROR AccountRepoDBImpl:397 - Database Connection Problems(conn=1801) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 19:07:00 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 19:08:58 INFO  App:25 - Javalin Created
+2021-09-07 19:08:59 INFO  App:33 - Javalin Started
+2021-09-07 21:55:02 INFO  App:25 - Javalin Created
+2021-09-07 21:55:20 INFO  App:25 - Javalin Created
+2021-09-07 21:55:21 INFO  App:33 - Javalin Started
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-07 21:55:31 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-07 21:55:31 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 21:55:31 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=1852) Cannot add or update a child row: a foreign key constraint fails (`Banking`.`accounts`, CONSTRAINT `fk_client` FOREIGN KEY (`clientId`) REFERENCES `clients` (`id`) ON DELETE CASCADE)
+2021-09-07 21:55:31 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 21:55:31 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:184 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:195 - Sending Created List
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:280 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:299 - Problem with Setting Info
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:138 - Returning List of Accounts
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:215 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:236 - Problem with Setting Info
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:250 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:266 - Missing Info
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:115 - Problem with Setting Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:349 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:366 - Problem with Setting Info
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:314 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:333 - Problem with Setting Info
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 21:55:32 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:56:57 ERROR ClientRepoDBImpl:108 - Database Connection ErrorsNo such column: 'name'. 'name' must be in [zip, clients.state, clients.id, firstname, clients.city, city, clients.street, clients.phonenumber, phonenumber, lastname, clients.email, clients.lastname, street, clients.firstname, id, state, clients.zip, email]
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:111 - Problems with Setting Info
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-07 21:56:57 ERROR ClientRepoDBImpl:143 - Database Connection Problems(conn=2388) Unknown column 'name' in 'field list'
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:170 - Creating New Client
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 21:56:57 ERROR ClientRepoDBImpl:175 - Database Connection ErrorsNo such column: 'name'. 'name' must be in [zip, clients.state, clients.id, firstname, clients.city, city, clients.street, clients.phonenumber, phonenumber, lastname, clients.email, clients.lastname, street, clients.firstname, id, state, clients.zip, email]
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-07 21:56:57 ERROR ClientRepoDBImpl:46 - Database Connection Issues(conn=2388) Column count doesn't match value count at row 1
+2021-09-07 21:56:57 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-07 21:56:57 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 21:56:57 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=2388) Cannot add or update a child row: a foreign key constraint fails (`Alazar`.`accounts`, CONSTRAINT `fk_client` FOREIGN KEY (`clientId`) REFERENCES `clients` (`id`) ON DELETE CASCADE)
+2021-09-07 21:56:57 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 21:56:57 INFO  AccountRepoDBImpl:379 - Setting New Information
+2021-09-07 21:56:58 ERROR AccountRepoDBImpl:397 - Database Connection Problems(conn=2388) Unknown column 'checkingAccount' in 'field list'
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:400 - Problem with Setting Info
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:184 - Setting New Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:195 - Sending Created List
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:280 - Setting New Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:299 - Problem with Setting Info
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 21:56:58 ERROR AccountRepoDBImpl:142 - Database Connection Information ErrorNo such column: 'checkingAccount'. 'checkingaccount' must be in [amount, clientid, accounts.id, accounts.saving_account, accounts.amount, balance, accounts.checking_account, checking_account, accounts.balance, saving_account, id, accounts.clientid]
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:145 - Problem with List Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:215 - Setting New Information
+2021-09-07 21:56:58 ERROR AccountRepoDBImpl:233 - Database Connection Problems(conn=2388) Unknown column 'checkingAccount' in 'field list'
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:236 - Problem with Setting Info
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:68 - Setting New Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:84 - Problem with setting information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:250 - Setting New Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:266 - Missing Info
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:115 - Problem with Setting Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:349 - Setting New Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:366 - Problem with Setting Info
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:314 - Setting New Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:333 - Problem with Setting Info
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 21:56:58 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:07:05 INFO  App:25 - Javalin Created
+2021-09-07 22:07:06 INFO  App:33 - Javalin Started
+2021-09-07 22:08:58 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-07 22:08:58 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-07 22:08:58 INFO  ClientController:75 - Missing Client Info
+2021-09-07 22:09:42 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-07 22:09:42 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-07 22:09:42 INFO  ClientController:75 - Missing Client Info
+2021-09-07 22:10:05 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:10:05 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:10:05 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:10:05 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:10:05 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:10:05 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:10:05 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 22:12:33 INFO  App:25 - Javalin Created
+2021-09-07 22:12:34 INFO  App:33 - Javalin Started
+2021-09-07 22:12:43 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:12:43 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:12:43 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:12:43 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:12:43 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:12:43 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:12:43 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 22:12:51 INFO  ClientController:45 - Seting Id to int
+2021-09-07 22:12:51 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 22:12:51 INFO  ClientRepoDBImpl:74 - Creating New Client
+2021-09-07 22:12:51 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:14:59 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-07 22:14:59 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-07 22:14:59 INFO  ClientController:91 - Missing Client Info
+2021-09-07 22:15:58 INFO  ClientController:105 - Changes Id to interger
+2021-09-07 22:15:58 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-07 22:15:58 INFO  ClientRepoDBImpl:170 - Creating New Client
+2021-09-07 22:15:58 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 22:18:22 INFO  App:25 - Javalin Created
+2021-09-07 22:18:23 INFO  App:33 - Javalin Started
+2021-09-07 22:18:38 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:18:38 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:18:38 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 22:18:38 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 22:18:38 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:27:45 INFO  ClientController:45 - Seting Id to int
+2021-09-07 22:27:45 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 22:27:45 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 22:27:45 INFO  ClientController:59 - Missing Client Info
+2021-09-07 22:29:39 INFO  ClientController:45 - Seting Id to int
+2021-09-07 22:29:39 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 22:29:39 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 22:29:39 INFO  ClientController:59 - Missing Client Info
+2021-09-07 22:35:42 INFO  ClientController:45 - Seting Id to int
+2021-09-07 22:35:42 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 22:35:43 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 22:35:43 INFO  ClientController:59 - Missing Client Info
+2021-09-07 22:38:50 INFO  ClientController:105 - Changes Id to interger
+2021-09-07 22:38:50 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-07 22:38:50 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-07 22:38:50 INFO  ClientController:119 - Missing Client Info
+2021-09-07 22:40:01 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-07 22:40:01 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-07 22:40:01 INFO  ClientController:91 - Missing Client Info
+2021-09-07 22:40:35 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:40:35 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:40:35 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 22:40:35 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 22:40:35 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:45:02 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:45:02 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:45:02 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 22:45:02 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 22:45:02 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:46:17 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:46:17 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:46:17 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:46:17 ERROR AccountController:76 - Missing Account Information
+2021-09-07 22:47:09 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:47:09 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:47:09 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:47:09 ERROR AccountController:76 - Missing Account Information
+2021-09-07 22:49:42 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:49:42 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:49:42 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:49:42 ERROR AccountController:76 - Missing Account Information
+2021-09-07 22:51:04 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:51:04 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:51:04 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:51:04 ERROR AccountController:76 - Missing Account Information
+2021-09-07 22:52:00 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:52:00 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:52:00 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:52:00 ERROR AccountController:76 - Missing Account Information
+2021-09-07 22:52:55 INFO  App:25 - Javalin Created
+2021-09-07 22:52:56 INFO  App:33 - Javalin Started
+2021-09-07 22:53:10 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:53:10 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:53:10 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:53:10 ERROR AccountController:76 - Missing Account Information
+2021-09-07 22:55:42 INFO  App:25 - Javalin Created
+2021-09-07 22:55:43 INFO  App:33 - Javalin Started
+2021-09-07 22:55:52 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 22:55:52 INFO  AccountRepoDBImpl:156 - Setting New Information
+2021-09-07 22:55:52 INFO  AccountRepoDBImpl:166 - Sending Created List
+2021-09-07 22:55:52 ERROR AccountController:76 - Missing Account Information
+2021-09-07 22:56:18 INFO  App:25 - Javalin Created
+2021-09-07 22:56:19 INFO  App:33 - Javalin Started
+2021-09-07 22:56:36 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 22:56:36 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=2406) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 22:56:36 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 22:56:36 ERROR AccountController:128 - Missing Account Information
+2021-09-07 22:56:42 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 22:56:42 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=2406) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 22:56:42 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 22:56:42 ERROR AccountController:128 - Missing Account Information
+2021-09-07 22:57:09 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 22:57:09 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=2406) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 22:57:09 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 22:57:09 ERROR AccountController:128 - Missing Account Information
+2021-09-07 22:57:47 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 22:57:47 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=2406) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 22:57:47 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 22:57:47 ERROR AccountController:128 - Missing Account Information
+2021-09-07 22:59:10 INFO  AccountController:94 - Putting Id's into integer
+2021-09-07 22:59:10 INFO  AccountRepoDBImpl:98 - Setting New Information
+2021-09-07 22:59:10 INFO  AccountRepoDBImpl:107 - Building New Account
+2021-09-07 22:59:10 INFO  AccountRepoDBImpl:406 - Setting Up New Account
+2021-09-07 23:07:15 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:07:15 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=2406) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 23:07:15 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 23:07:15 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:07:25 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:07:25 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=2406) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 23:07:25 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 23:07:25 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:08:01 INFO  App:25 - Javalin Created
+2021-09-07 23:08:02 INFO  App:33 - Javalin Started
+2021-09-07 23:08:23 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:08:23 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=2410) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-07 23:08:23 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 23:08:23 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:09:54 INFO  App:25 - Javalin Created
+2021-09-07 23:09:55 INFO  App:33 - Javalin Started
+2021-09-07 23:10:22 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:10:22 ERROR AccountRepoDBImpl:51 - Database Connection Information Error(conn=2412) Parameter at position 6 is not set
+2021-09-07 23:10:22 INFO  AccountRepoDBImpl:54 - Problem with setting information
+2021-09-07 23:10:22 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:11:05 INFO  App:25 - Javalin Created
+2021-09-07 23:11:06 INFO  App:33 - Javalin Started
+2021-09-07 23:11:18 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:11:18 ERROR AccountRepoDBImpl:52 - Database Connection Information Error(conn=2413) Column count doesn't match value count at row 1
+2021-09-07 23:11:18 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:11:18 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:11:28 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:11:28 ERROR AccountRepoDBImpl:52 - Database Connection Information Error(conn=2413) Column count doesn't match value count at row 1
+2021-09-07 23:11:28 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:11:28 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:12:13 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:12:13 ERROR AccountRepoDBImpl:52 - Database Connection Information Error(conn=2413) Column count doesn't match value count at row 1
+2021-09-07 23:12:13 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:12:13 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:12:28 INFO  App:25 - Javalin Created
+2021-09-07 23:12:29 INFO  App:33 - Javalin Started
+2021-09-07 23:12:38 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:12:38 ERROR AccountRepoDBImpl:52 - Database Connection Information Error(conn=2414) Column count doesn't match value count at row 1
+2021-09-07 23:12:38 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:12:38 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:12:51 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 23:12:51 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-07 23:12:51 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-07 23:12:51 ERROR AccountController:76 - Missing Account Information
+2021-09-07 23:14:23 INFO  App:25 - Javalin Created
+2021-09-07 23:14:24 INFO  App:33 - Javalin Started
+2021-09-07 23:14:38 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:14:38 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:14:38 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:14:52 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:14:52 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:14:52 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:15:10 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:15:10 ERROR AccountRepoDBImpl:52 - Database Connection Information Error(conn=2416) Duplicate entry '3' for key 'PRIMARY'
+2021-09-07 23:15:10 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:15:10 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:16:42 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:16:43 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:16:43 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:19:09 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:19:09 ERROR AccountRepoDBImpl:52 - Database Connection Information Error(conn=2416) Cannot add or update a child row: a foreign key constraint fails (`Alazar`.`accounts`, CONSTRAINT `fk_client` FOREIGN KEY (`clientId`) REFERENCES `clients` (`id`))
+2021-09-07 23:19:09 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:19:09 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:20:03 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:20:03 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:20:03 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:22:09 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:22:09 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:22:09 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:23:42 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-07 23:23:42 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-07 23:23:42 INFO  ClientController:75 - Missing Client Info
+2021-09-07 23:25:29 INFO  AccountController:94 - Putting Id's into integer
+2021-09-07 23:25:29 INFO  AccountRepoDBImpl:99 - Setting New Information
+2021-09-07 23:25:29 INFO  AccountRepoDBImpl:116 - Problem with Setting Information
+2021-09-07 23:25:29 ERROR AccountController:109 - Missing Account Information
+2021-09-07 23:25:36 INFO  AccountController:94 - Putting Id's into integer
+2021-09-07 23:25:36 INFO  AccountRepoDBImpl:99 - Setting New Information
+2021-09-07 23:25:36 INFO  AccountRepoDBImpl:108 - Building New Account
+2021-09-07 23:25:36 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:28:23 INFO  AccountController:94 - Putting Id's into integer
+2021-09-07 23:28:23 INFO  AccountRepoDBImpl:99 - Setting New Information
+2021-09-07 23:28:23 INFO  AccountRepoDBImpl:108 - Building New Account
+2021-09-07 23:28:23 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:36:40 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-07 23:36:41 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-07 23:36:41 INFO  ClientController:75 - Missing Client Info
+2021-09-07 23:37:27 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:37:27 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:37:27 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:37:27 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:37:27 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:37:27 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:37:27 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:37:27 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-07 23:37:47 INFO  ClientController:45 - Seting Id to int
+2021-09-07 23:37:47 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 23:37:47 INFO  ClientRepoDBImpl:74 - Creating New Client
+2021-09-07 23:37:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:38:42 INFO  ClientController:45 - Seting Id to int
+2021-09-07 23:38:42 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 23:38:42 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 23:38:42 INFO  ClientController:59 - Missing Client Info
+2021-09-07 23:38:58 INFO  ClientController:45 - Seting Id to int
+2021-09-07 23:38:58 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 23:38:59 INFO  ClientRepoDBImpl:74 - Creating New Client
+2021-09-07 23:38:59 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:39:03 INFO  ClientController:45 - Seting Id to int
+2021-09-07 23:39:03 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 23:39:04 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 23:39:04 INFO  ClientController:59 - Missing Client Info
+2021-09-07 23:39:32 INFO  ClientController:45 - Seting Id to int
+2021-09-07 23:39:32 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 23:39:32 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 23:39:32 INFO  ClientController:59 - Missing Client Info
+2021-09-07 23:40:39 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-07 23:40:39 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-07 23:40:39 INFO  ClientController:91 - Missing Client Info
+2021-09-07 23:41:01 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-07 23:41:01 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-07 23:41:01 INFO  ClientController:91 - Missing Client Info
+2021-09-07 23:41:51 INFO  ClientController:105 - Changes Id to interger
+2021-09-07 23:41:51 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-07 23:41:51 INFO  ClientRepoDBImpl:170 - Creating New Client
+2021-09-07 23:41:51 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-07 23:42:35 INFO  ClientController:105 - Changes Id to interger
+2021-09-07 23:42:35 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-07 23:42:35 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-07 23:42:35 INFO  ClientController:119 - Missing Client Info
+2021-09-07 23:44:19 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-07 23:44:19 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-07 23:44:19 ERROR AccountController:128 - Missing Account Information
+2021-09-07 23:44:52 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 23:44:52 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-07 23:44:52 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:44:52 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-07 23:45:14 ERROR ClientController:48 - Error Retrieving idFor input string: "accounts"
+2021-09-07 23:45:14 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-07 23:45:14 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-07 23:45:14 INFO  ClientController:59 - Missing Client Info
+2021-09-07 23:46:02 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 23:46:02 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-07 23:46:02 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:46:02 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-07 23:46:14 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 23:46:14 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-07 23:46:14 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:46:14 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:46:14 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-07 23:46:51 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 23:46:51 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-07 23:46:51 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:46:51 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-07 23:48:53 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 23:48:53 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-07 23:48:53 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:48:53 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:48:53 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-07 23:49:52 INFO  AccountController:94 - Putting Id's into integer
+2021-09-07 23:49:52 INFO  AccountRepoDBImpl:99 - Setting New Information
+2021-09-07 23:49:52 INFO  AccountRepoDBImpl:108 - Building New Account
+2021-09-07 23:49:52 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:50:04 INFO  AccountController:94 - Putting Id's into integer
+2021-09-07 23:50:04 INFO  AccountRepoDBImpl:99 - Setting New Information
+2021-09-07 23:50:05 INFO  AccountRepoDBImpl:108 - Building New Account
+2021-09-07 23:50:05 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:54:42 INFO  AccountController:94 - Putting Id's into integer
+2021-09-07 23:54:42 INFO  AccountRepoDBImpl:99 - Setting New Information
+2021-09-07 23:54:42 INFO  AccountRepoDBImpl:108 - Building New Account
+2021-09-07 23:54:42 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:54:50 INFO  AccountController:63 - Putting Id into integer
+2021-09-07 23:54:50 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-07 23:54:50 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:54:50 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-07 23:54:50 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-07 23:57:52 INFO  AccountRepoDBImpl:216 - Setting New Information
+2021-09-07 23:57:52 INFO  AccountRepoDBImpl:237 - Problem with Setting Info
+2021-09-07 23:57:52 ERROR AccountController:144 - Missing Account Information
+2021-09-08 00:03:10 INFO  App:25 - Javalin Created
+2021-09-08 00:03:11 INFO  App:33 - Javalin Started
+2021-09-08 00:10:00 INFO  App:25 - Javalin Created
+2021-09-08 00:10:01 INFO  App:33 - Javalin Started
+2021-09-08 00:10:17 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 00:10:17 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 00:10:17 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 00:10:17 ERROR AccountController:175 - Missing Account Information
+2021-09-08 00:10:50 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 00:10:50 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 00:10:50 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 00:10:50 ERROR AccountController:175 - Missing Account Information
+2021-09-08 00:10:57 INFO  App:25 - Javalin Created
+2021-09-08 00:10:57 INFO  App:33 - Javalin Started
+2021-09-08 00:14:08 INFO  App:25 - Javalin Created
+2021-09-08 00:14:08 INFO  App:33 - Javalin Started
+2021-09-08 00:15:10 INFO  App:25 - Javalin Created
+2021-09-08 00:15:11 INFO  App:33 - Javalin Started
+2021-09-08 00:15:25 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 00:15:25 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 00:15:25 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 00:15:25 ERROR AccountController:175 - Missing Account Information
+2021-09-08 00:16:42 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 00:16:42 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 00:16:42 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 00:16:42 ERROR AccountController:175 - Missing Account Information
+2021-09-08 00:17:47 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-08 00:17:47 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-08 00:17:47 INFO  ClientController:75 - Missing Client Info
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-08 00:17:48 INFO  ClientController:45 - Seting Id to int
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:74 - Creating New Client
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:17:48 INFO  ClientController:45 - Seting Id to int
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-08 00:17:48 INFO  ClientController:59 - Missing Client Info
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:17:48 INFO  ClientController:91 - Missing Client Info
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:17:48 INFO  ClientController:91 - Missing Client Info
+2021-09-08 00:17:48 INFO  ClientController:105 - Changes Id to interger
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-08 00:17:48 INFO  ClientController:119 - Missing Client Info
+2021-09-08 00:17:48 INFO  ClientController:105 - Changes Id to interger
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 00:17:48 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-08 00:17:48 INFO  ClientController:119 - Missing Client Info
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-08 00:17:49 ERROR AccountController:128 - Missing Account Information
+2021-09-08 00:17:49 INFO  AccountController:63 - Putting Id into integer
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:216 - Setting New Information
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:237 - Problem with Setting Info
+2021-09-08 00:17:49 ERROR AccountController:144 - Missing Account Information
+2021-09-08 00:17:49 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 00:17:49 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 00:17:49 ERROR AccountController:175 - Missing Account Information
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-08 00:18:33 INFO  ClientController:75 - Missing Client Info
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-08 00:18:33 INFO  ClientController:45 - Seting Id to int
+2021-09-08 00:18:33 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:74 - Creating New Client
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:18:34 INFO  ClientController:45 - Seting Id to int
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-08 00:18:34 INFO  ClientController:59 - Missing Client Info
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:18:34 INFO  ClientController:91 - Missing Client Info
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:18:34 INFO  ClientController:91 - Missing Client Info
+2021-09-08 00:18:34 INFO  ClientController:105 - Changes Id to interger
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-08 00:18:34 INFO  ClientController:119 - Missing Client Info
+2021-09-08 00:18:34 INFO  ClientController:105 - Changes Id to interger
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 00:18:34 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-08 00:18:34 INFO  ClientController:119 - Missing Client Info
+2021-09-08 00:18:34 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-08 00:18:34 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-08 00:18:34 ERROR AccountController:128 - Missing Account Information
+2021-09-08 00:18:34 INFO  AccountController:63 - Putting Id into integer
+2021-09-08 00:18:34 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-08 00:18:34 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:18:34 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:18:34 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-08 00:18:35 INFO  AccountRepoDBImpl:216 - Setting New Information
+2021-09-08 00:18:35 INFO  AccountRepoDBImpl:237 - Problem with Setting Info
+2021-09-08 00:18:35 ERROR AccountController:144 - Missing Account Information
+2021-09-08 00:18:35 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 00:18:35 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 00:18:35 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 00:18:35 ERROR AccountController:175 - Missing Account Information
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-08 00:19:39 INFO  ClientController:75 - Missing Client Info
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-08 00:19:39 INFO  ClientController:45 - Seting Id to int
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:74 - Creating New Client
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:19:39 INFO  ClientController:45 - Seting Id to int
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-08 00:19:39 INFO  ClientController:59 - Missing Client Info
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:19:39 INFO  ClientController:91 - Missing Client Info
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:19:39 INFO  ClientController:91 - Missing Client Info
+2021-09-08 00:19:39 INFO  ClientController:105 - Changes Id to interger
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 00:19:39 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-08 00:19:39 INFO  ClientController:119 - Missing Client Info
+2021-09-08 00:19:40 INFO  ClientController:105 - Changes Id to interger
+2021-09-08 00:19:40 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 00:19:40 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-08 00:19:40 INFO  ClientController:119 - Missing Client Info
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-08 00:19:40 ERROR AccountController:128 - Missing Account Information
+2021-09-08 00:19:40 INFO  AccountController:63 - Putting Id into integer
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:216 - Setting New Information
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:237 - Problem with Setting Info
+2021-09-08 00:19:40 ERROR AccountController:144 - Missing Account Information
+2021-09-08 00:19:40 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 00:19:40 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 00:19:40 ERROR AccountController:175 - Missing Account Information
+2021-09-08 00:21:46 INFO  App:25 - Javalin Created
+2021-09-08 00:21:46 INFO  App:33 - Javalin Started
+2021-09-08 00:22:19 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:22:19 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:22:19 INFO  ClientController:92 - Missing Client Info
+2021-09-08 00:23:16 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:23:16 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:23:16 INFO  ClientController:92 - Missing Client Info
+2021-09-08 00:23:45 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:23:45 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:23:45 INFO  ClientController:92 - Missing Client Info
+2021-09-08 00:25:17 INFO  App:25 - Javalin Created
+2021-09-08 00:25:18 INFO  App:33 - Javalin Started
+2021-09-08 00:25:43 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:25:43 ERROR ClientRepoDBImpl:143 - Database Connection Problems(conn=2436) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING *' at line 1
+2021-09-08 00:25:43 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:25:43 INFO  ClientController:92 - Missing Client Info
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:170 - Creating New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-08 00:26:34 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-08 00:27:11 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-08 00:27:11 ERROR AccountRepoDBImpl:52 - Database Connection Information Error(conn=2438) Cannot add or update a child row: a foreign key constraint fails (`Alazar`.`accounts`, CONSTRAINT `fk_client` FOREIGN KEY (`clientId`) REFERENCES `clients` (`id`))
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:380 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:401 - Problem with Setting Info
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:185 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:196 - Sending Created List
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:281 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:300 - Problem with Setting Info
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:139 - Returning List of Accounts
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:216 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:237 - Problem with Setting Info
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:69 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:77 - Building New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:251 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:259 - Creating New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:99 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:108 - Building New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:359 - Creating New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:315 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:334 - Problem with Setting Info
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-08 00:27:11 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-08 00:28:47 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:31 - Setting New Information
+2021-09-08 00:28:47 ERROR AccountRepoDBImpl:52 - Database Connection Information Error(conn=2440) Cannot add or update a child row: a foreign key constraint fails (`Alazar`.`accounts`, CONSTRAINT `fk_client` FOREIGN KEY (`clientId`) REFERENCES `clients` (`id`))
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:55 - Problem with setting information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:69 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:85 - Problem with setting information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:185 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:196 - Sending Created List
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:69 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:85 - Problem with setting information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:407 - Setting Up New Account
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:139 - Returning List of Accounts
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:216 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:237 - Problem with Setting Info
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:69 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:85 - Problem with setting information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:251 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:267 - Missing Info
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:99 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:116 - Problem with Setting Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:315 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:334 - Problem with Setting Info
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:157 - Setting New Information
+2021-09-08 00:28:47 INFO  AccountRepoDBImpl:167 - Sending Created List
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:127 - Setting Up Values
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:146 - Problems with Setting Info
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:162 - Setting Up Values
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:178 - Problems with Setting Info
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:82 - Problem with Setting Info
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:33 - Setting Up Values
+2021-09-08 08:39:25 INFO  ClientRepoDBImpl:49 - Problems with Setting Info
+2021-09-08 09:09:00 INFO  App:25 - Javalin Created
+2021-09-08 09:09:10 INFO  App:25 - Javalin Created
+2021-09-08 09:09:11 INFO  App:33 - Javalin Started
+2021-09-08 09:09:21 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:22 INFO  ClientRepoDBImpl:104 - Sending Clients List
+2021-09-08 09:09:28 INFO  ClientController:45 - Seting Id to int
+2021-09-08 09:09:28 INFO  ClientRepoDBImpl:66 - Setting Up Values
+2021-09-08 09:09:28 INFO  ClientRepoDBImpl:74 - Creating New Client
+2021-09-08 09:09:28 INFO  ClientRepoDBImpl:184 - Setting Up New Client
+2021-09-08 09:09:33 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 09:09:33 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 09:09:33 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 09:09:33 ERROR AccountController:175 - Missing Account Information
+2021-09-08 09:09:41 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 09:09:41 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 09:09:41 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 09:09:41 ERROR AccountController:175 - Missing Account Information
+2021-09-08 09:10:05 INFO  AccountController:161 - Putting Id's into integer
+2021-09-08 09:10:05 INFO  AccountRepoDBImpl:350 - Setting New Information
+2021-09-08 09:10:05 INFO  AccountRepoDBImpl:367 - Problem with Setting Info
+2021-09-08 09:10:05 ERROR AccountController:175 - Missing Account Information
