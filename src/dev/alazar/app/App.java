@@ -20,14 +20,11 @@ public class App {
 
 	public static void main(String[] args) {
 
-		// Establish Javalin object
 		Javalin app = Javalin.create();
 		log.info("Javalin Created");
 
-		// Establish the Routes/Endpoints Javalin will manage
 		establishRoutes(app);
 
-		// Run Javalin
 		app.start(7000);
 
 		log.info("Javalin Started");
